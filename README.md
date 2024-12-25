@@ -57,5 +57,8 @@ Key Features:
 Constraints:
     NOT NULL ensures critical fields are always populated.
     UNIQUE prevents duplicate entries for fields like email and mobile number.
+
+OUTPUT:
+
 ![Screenshot 2024-12-25 174130](https://github.com/user-attachments/assets/06e41e92-7870-40f1-b73d-dc6300b545ab)
 
