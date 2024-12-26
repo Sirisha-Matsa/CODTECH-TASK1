@@ -1,4 +1,4 @@
-
+# CODTECH TASK1
 
 Company: CODTECH IT SOLUTIONS
 
@@ -14,17 +14,17 @@ OVERVIEW OF THE PROJECT:
 
 PROJECT: Library Management System 
 
-OBJECTIVE:
+# OBJECTIVE:
 
 To create a simple library database that helps manage books, members, and borrow records. It makes it easy to add or update details, track which books are borrowed, check availability, and keep data accurate, making library operations smooth and efficient.
 
-Key Components:
-    Tables
+# Key Components:
+ Tables
     BOOKS: Stores details about books in the library, including the title, author, genre, publication year, and quantity available.
     MEMBERS: Contains information about library members, such as their name, email, mobile number, and joining date.
     TRANSACTIONS: Tracks the borrowing and returning of books by members, linking books and members through foreign keys.
     
-Functionalities:
+# Functionalities:
 
 Data Insertion:
     INSERT INTO commands populate the BOOKS, MEMBERS, and TRANSACTIONS tables with initial sample data, simulating real-world scenarios like book additions and member registrations.
@@ -58,7 +58,7 @@ Constraints:
     NOT NULL ensures critical fields are always populated.
     UNIQUE prevents duplicate entries for fields like email and mobile number.
 
-OUTPUT:
+# OUTPUT:
 
 ![Screenshot 2024-12-25 174130](https://github.com/user-attachments/assets/06e41e92-7870-40f1-b73d-dc6300b545ab)
 
